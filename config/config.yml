@@ -1,0 +1,7 @@
+development:
+  out_dir: '/home/jac0p/_DEV/file_drop_server/out/'
+  scp_user: 'wildfly'
+  upload_servers: ['server-01', 'server-02']
+  upload_dir: '/home/wildfly'
+
+
